@@ -1,6 +1,8 @@
 # Hi, I'm Andre Christian Manurung 👋
 
-I am a Information Engineering student at Universitas Gadjah Mada (UGM) and a software developer focused on building clean, performant, and reliable applications. I enjoy exploring web development, mobile applications, interactive systems, and integrating AI models into practical tools. In my work, I prioritize code structure, strict type safety, and clean architectural patterns.
+[![Website](https://img.shields.io/badge/Website-nre.codes-000000?style=flat&logo=google-chrome&logoColor=white)](https://nre.codes)
+
+I am an Information Engineering student at Universitas Gadjah Mada (UGM) and a software developer focused on building clean, performant, and reliable applications. I enjoy exploring web development, mobile applications, interactive systems, and integrating AI models into practical tools. In my work, I prioritize code structure, strict type safety, and clean architectural patterns.
 
 Outside of standard academic coursework, I love designing clean interfaces, experimenting with browser-based engines, and optimizing web experiences for performance and responsiveness. I am always open to learning new tools, collaborating on interesting projects, and tackling complex engineering challenges.
 
