@@ -52,3 +52,9 @@ Outside of standard academic coursework, I love designing clean interfaces, expe
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1B?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreyyste&theme=transparent)](https://git.io/streak-stats)
